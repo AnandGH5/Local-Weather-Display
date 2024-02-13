@@ -7,4 +7,4 @@ The APIs used for this project are : HTML5 geolocation API, Google Maps Geocodin
 
 A Pen created at CodePen.io. You can find this one at http://codepen.io/SiegAn/pen/JJGBwj.
 
- This project is tested with Browserstack.
+ This project is tested with BrowserStack.
